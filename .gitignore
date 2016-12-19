@@ -1,0 +1,5 @@
+node_modules/
+.vscode/
+CSV/CONTRATS.csv
+CSV/IDUNIQ.csv
+CSV/PRODUITS.csv
